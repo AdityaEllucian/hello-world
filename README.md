@@ -1,2 +1,4 @@
 # hello-world
-intro to git_hub
+
+
+I hope this ends well. I am here to learn a lot. 
